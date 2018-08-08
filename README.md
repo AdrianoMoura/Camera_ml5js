@@ -4,7 +4,7 @@ This is an example of Image Classification using Machine Learning with ml5.js li
 
 - [ml5.js](https://ml5js.org/) 
 - [p5.js](https://p5js.org/)
-- [TensorFlow MobileNet model](https://p5js.org/)
+- [TensorFlow MobileNet model](https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet_v1.md)
 
 Install
 ```
